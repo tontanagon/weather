@@ -1,0 +1,1374 @@
+[
+  {
+    "name": "กรีซ"},
+  { "name": "Greece"
+  },
+  {
+    "name": "กรีนแลนด์"},
+  { "name": "Greenland"
+  },
+  {
+    "name": "กวม"},
+  { "name": "Guam"
+  },
+  {
+    "name": "กัมพูชา"},
+  { "name": "Cambodia"
+  },
+  {
+    "name": "กัวเดอลุป"},
+  { "name": "Guadeloupe"
+  },
+  {
+    "name": "กัวเตมาลา"},
+  { "name": "Guatemala"
+  },
+  {
+    "name": "กาตาร์"},
+  { "name": "Qatar"
+  },
+  {
+    "name": "กานา"},
+  { "name": "Ghana"
+  },
+  {
+    "name": "กาบอง"},
+  { "name": "Gabon"
+  },
+  {
+    "name": "กาบูเวร์ดี"},
+  { "name": "Cabo Verde"
+  },
+  {
+    "name": "กายอานา"},
+  { "name": "Guyana"
+  },
+  {
+    "name": "กินี"},
+  { "name": "Guinea"
+  },
+  {
+    "name": "กินี-บิสเซา"},
+  { "name": "Guinea-Bissau"
+  },
+  {
+    "name": "กือราเซา"},
+  { "name": "Curaçao"
+  },
+  {
+    "name": "เกรเนดา"},
+  { "name": "Grenada"
+  },
+  {
+    "name": "เกาหลีใต้"},
+  { "name": "South Korea"
+  },
+  {
+    "name": "เกาหลีเหนือ"},
+  { "name": "North Korea"
+  },
+  {
+    "name": "เกาะคริสต์มาส"},
+  { "name": "Christmas Island"
+  },
+  {
+    "name": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช"},
+  { "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "name": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช"},
+  { "name": "South Sudan"
+  },
+  {
+    "name": "เกาะนอร์ฟอล์ก"},
+  { "name": "Norfolk Island"
+  },
+  {
+    "name": "เกาะบูเวต์"},
+  { "name": "Bouvet Island"
+  },
+  {
+    "name": "เกาะเล็กรอบนอกของสหรัฐอเมริกา"},
+  { "name": "United States Minor Outlying Islands"
+  },
+  {
+    "name": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"},
+  { "name": "Heard Island and McDonald Islands"
+  },
+  {
+    "name": "เกิร์นซีย์"},
+  { "name": "Guernsey"
+  },
+  {
+    "name": "แกมเบีย"},
+  { "name": "Gambia"
+  },
+  {
+    "name": "โกตดิวัวร์"},
+  { "name": "Côte d'Ivoire"
+  },
+  {
+    "name": "คอโมโรส"},
+  { "name": "Comoros"
+  },
+  {
+    "name": "คอสตาริกา"},
+  { "name": "Costa Rica"
+  },
+  {
+    "name": "คาซัคสถาน"},
+  { "name": "Kazakhstan"
+  },
+  {
+    "name": "คิริบาส"},
+  { "name": "Kiribati"
+  },
+  {
+    "name": "คิวบา"},
+  { "name": "Cuba"
+  },
+  {
+    "name": "คีร์กีซสถาน"},
+  { "name": "Kyrgyzstan"
+  },
+  {
+    "name": "คูเวต"},
+  { "name": "Kuwait"
+  },
+  {
+    "name": "เคนยา"},
+  { "name": "Kenya"
+  },
+  {
+    "name": "แคนาดา"},
+  { "name": "Canada"
+  },
+  {
+    "name": "แคเมอรูน"},
+  { "name": "Cameroon"
+  },
+  {
+    "name": "โครเอเชีย"},
+  { "name": "Croatia"
+  },
+  {
+    "name": "โคลอมเบีย"},
+  { "name": "Colombia"
+  },
+  {
+    "name": "จอร์เจีย"},
+  { "name": "Georgia"
+  },
+  {
+    "name": "จอร์แดน"},
+  { "name": "Jordan"
+  },
+  {
+    "name": "จาเมกา"},
+  { "name": "Jamaica"
+  },
+  {
+    "name": "จิบูตี"},
+  { "name": "Djibouti"
+  },
+  {
+    "name": "จีน"},
+  { "name": "China"
+  },
+  {
+    "name": "เจอร์ซีย์"},
+  { "name": "Jersey"
+  },
+  {
+    "name": "ชาด"},
+  { "name": "Chad"
+  },
+  {
+    "name": "ชิลี"},
+  { "name": "Chile"
+  },
+  {
+    "name": "เช็กเกีย"},
+  { "name": "Czech Republic"
+  },
+  {
+    "name": "ซานมารีโน"},
+  { "name": "San Marino"
+  },
+  {
+    "name": "ซามัว"},
+  { "name": "Samoa"
+  },
+  {
+    "name": "ซาอุดีอาระเบีย"},
+  { "name": "Saudi Arabia"
+  },
+  {
+    "name": "ซาฮาราตะวันตก"},
+  { "name": "Western Sahara"
+  },
+  {
+    "name": "ซิมบับเว"},
+  { "name": "Zimbabwe"
+  },
+  {
+    "name": "ซีเรีย"},
+  { "name": "Syrian Arab Republic"
+  },
+  {
+    "name": "ซูดาน"},
+  { "name": "Sudan"
+  },
+  {
+    "name": "ซูรินาม"},
+  { "name": "Suriname"
+  },
+  {
+    "name": "เซเชลส์"},
+  { "name": "Seychelles"
+  },
+  {
+    "name": "เซนต์คิตส์และเนวิส"},
+  { "name": "Saint Kitts and Nevis"
+  },
+  {
+    "name": "เซนต์ลูเชีย"},
+  { "name": "Saint Lucia"
+  },
+  {
+    "name": "เซนต์วินเซนต์และเกรนาดีนส์"},
+  { "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "name": "เซนต์เฮเลนา"},
+  { "name": "Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "name": "เซเนกัล"},
+  { "name": "Senegal"
+  },
+  {
+    "name": "เซอร์เบีย"},
+  { "name": "Serbia"
+  },
+  {
+    "name": "เซาตูเมและปรินซีปี"},
+  { "name": "Sao Tome and Principe"
+  },
+  {
+    "name": "เซียร์ราลีโอน"},
+  { "name": "Sierra Leone"
+  },
+  {
+    "name": "แซงบาร์เตเลมี"},
+  { "name": "Saint Barthélemy"
+  },
+  {
+    "name": "แซงปีแยร์และมีเกอลง"},
+  { "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "name": "แซงมาร์แตง"},
+  { "name": "Saint Martin"
+  },
+  {
+    "name": "แซมเบีย"},
+  { "name": "Zambia"
+  },
+  {
+    "name": "โซมาเลีย"},
+  { "name": "Somalia"
+  },
+  {
+    "name": "ไซปรัส"},
+  { "name": "Cyprus"
+  },
+  {
+    "name": "ญี่ปุ่น"},
+  { "name": "Japan"
+  },
+  {
+    "name": "ดอมินีกา"},
+  { "name": "Dominica"
+  },
+  {
+    "name": "เดนมาร์ก"},
+  { "name": "Denmark"
+  },
+  {
+    "name": "ตรินิแดดและโตเบโก"},
+  { "name": "Trinidad and Tobago"
+  },
+  {
+    "name": "ตองงา"},
+  { "name": "Tonga"
+  },
+  {
+    "name": "ติมอร์-เลสเต"},
+  { "name": "Timor-Leste"
+  },
+  {
+    "name": "ตุรกี"},
+  { "name": "Turkey"
+  },
+  {
+    "name": "ตูนิเซีย"},
+  { "name": "Tunisia"
+  },
+  {
+    "name": "ตูวาลู"},
+  { "name": "Tuvalu"
+  },
+  {
+    "name": "เติร์กเมนิสถาน"},
+  { "name": "Turkmenistan"
+  },
+  {
+    "name": "โตโก"},
+  { "name": "Togo"
+  },
+  {
+    "name": "ไต้หวัน"},
+  { "name": "Taiwan"
+  },
+  {
+    "name": "ทาจิกิสถาน"},
+  { "name": "Tajikistan"
+  },
+  {
+    "name": "แทนซาเนีย"},
+  { "name": "Tanzania"
+  },
+  {
+    "name": "โทเคอเลา"},
+  { "name": "Tokelau"
+  },
+  {
+    "name": "ไทย"},
+  { "name": "Thailand"
+  },
+  {
+    "name": "นครรัฐวาติกัน"},
+  { "name": "Vatican City State"
+  },
+  {
+    "name": "นอร์เวย์"},
+  { "name": "Norway"
+  },
+  {
+    "name": "นามิเบีย"},
+  { "name": "Namibia"
+  },
+  {
+    "name": "นาอูรู"},
+  { "name": "Nauru"
+  },
+  {
+    "name": "นิการากัว"},
+  { "name": "Nicaragua"
+  },
+  {
+    "name": "นิวแคลิโดเนีย"},
+  { "name": "New Caledonia"
+  },
+  {
+    "name": "นิวซีแลนด์"},
+  { "name": "New Zealand"
+  },
+  {
+    "name": "นีวเว"},
+  { "name": "Niue"
+  },
+  {
+    "name": "เนเธอร์แลนด์"},
+  { "name": "Netherlands"
+  },
+  {
+    "name": "เนปาล"},
+  { "name": "Nepal"
+  },
+  {
+    "name": "ไนจีเรีย"},
+  { "name": "Nigeria"
+  },
+  {
+    "name": "ไนเจอร์"},
+  { "name": "Niger"
+  },
+  {
+    "name": "บราซิล"},
+  { "name": "Brazil"
+  },
+  {
+    "name": "บริติชอินเดียนโอเชียนเทร์ริทอรี"},
+  { "name": "British Indian Ocean Territory"
+  },
+  {
+    "name": "บรูไน"},
+  { "name": "Brunei Darussalam"
+  },
+  {
+    "name": "บอตสวานา"},
+  { "name": "Botswana"
+  },
+  {
+    "name": "บอสเนียและเฮอร์เซโกวีนา"},
+  { "name": "Bosnia and Herzegovina"
+  },
+  {
+    "name": "บังกลาเทศ"},
+  { "name": "Bangladesh"
+  },
+  {
+    "name": "บัลแกเรีย"},
+  { "name": "Bulgaria"
+  },
+  {
+    "name": "บาร์เบโดส"},
+  { "name": "Barbados"
+  },
+  {
+    "name": "บาห์เรน"},
+  { "name": "Bahrain"
+  },
+  {
+    "name": "บาฮามาส"},
+  { "name": "Bahamas"
+  },
+  {
+    "name": "บุรุนดี"},
+  { "name": "Burundi"
+  },
+  {
+    "name": "บูร์กินาฟาโซ"},
+  { "name": "Burkina Faso"
+  },
+  {
+    "name": "เบนิน"},
+  { "name": "Benin"
+  },
+  {
+    "name": "เบลเยียม"},
+  { "name": "Belgium"
+  },
+  {
+    "name": "เบลารุส"},
+  { "name": "Belarus"
+  },
+  {
+    "name": "เบลีซ"},
+  { "name": "Belize"
+  },
+  {
+    "name": "เบอร์มิวดา"},
+  { "name": "Bermuda"
+  },
+  {
+    "name": "โบลิเวีย"},
+  { "name": "Bolivia"
+  },
+  {
+    "name": "ปวยร์โตรีโก"},
+  { "name": "Puerto Rico"
+  },
+  {
+    "name": "ปากีสถาน"},
+  { "name": "Pakistan"
+  },
+  {
+    "name": "ปานามา"},
+  { "name": "Panama"
+  },
+  {
+    "name": "ปาปัวนิวกินี"},
+  { "name": "Papua New Guinea"
+  },
+  {
+    "name": "ปารากวัย"},
+  { "name": "Paraguay"
+  },
+  {
+    "name": "ปาเลสไตน์"},
+  { "name": "Palestine"
+  },
+  {
+    "name": "ปาเลา"},
+  { "name": "Palau"
+  },
+  {
+    "name": "เปรู"},
+  { "name": "Peru"
+  },
+  {
+    "name": "โปรตุเกส"},
+  { "name": "Portugal"
+  },
+  {
+    "name": "โปแลนด์"},
+  { "name": "Poland"
+  },
+  {
+    "name": "ฝรั่งเศส"},
+  { "name": "France"
+  },
+  {
+    "name": "พม่า"},
+  { "name": "Myanmar"
+  },
+  {
+    "name": "ฟินแลนด์"},
+  { "name": "Finland"
+  },
+  {
+    "name": "ฟิลิปปินส์"},
+  { "name": "Philippines"
+  },
+  {
+    "name": "ฟีจี"},
+  { "name": "Fiji"
+  },
+  {
+    "name": "เฟรนช์เกียนา"},
+  { "name": "French Guiana"
+  },
+  {
+    "name": "เฟรนช์เซาเทิร์นและแอนตาร์กติกแลนดส์"},
+  { "name": "French Southern Territories"
+  },
+  {
+    "name": "เฟรนช์พอลินีเชีย"},
+  { "name": "French Polynesia"
+  },
+  {
+    "name": "ภูฏาน"},
+  { "name": "Bhutan"
+  },
+  {
+    "name": "มองโกเลีย"},
+  { "name": "Mongolia"
+  },
+  {
+    "name": "มอนต์เซอร์รัต"},
+  { "name": "Montserrat"
+  },
+  {
+    "name": "มอนเตเนโกร"},
+  { "name": "Montenegro"
+  },
+  {
+    "name": "มอริเชียส"},
+  { "name": "Mauritius"
+  },
+  {
+    "name": "มอริเตเนีย"},
+  { "name": "Mauritania"
+  },
+  {
+    "name": "มอลโดวา"},
+  { "name": "Moldova"
+  },
+  {
+    "name": "มอลตา"},
+  { "name": "Malta"
+  },
+  {
+    "name": "มัลดีฟส์"},
+  { "name": "Maldives"
+  },
+  {
+    "name": "มาเก๊า"},
+  { "name": "Macao"
+  },
+  {
+    "name": "นอร์ทมาซิโดเนีย"},
+  { "name": "North Macedonia"
+  },
+  {
+    "name": "มาดากัสการ์"},
+  { "name": "Madagascar"
+  },
+  {
+    "name": "มายอต"},
+  { "name": "Mayotte"
+  },
+  {
+    "name": "มาร์ตีนิก"},
+  { "name": "Martinique"
+  },
+  {
+    "name": "มาลาวี"},
+  { "name": "Malawi"
+  },
+  {
+    "name": "มาลี"},
+  { "name": "Mali"
+  },
+  {
+    "name": "มาเลเซีย"},
+  { "name": "Malaysia"
+  },
+  {
+    "name": "เม็กซิโก"},
+  { "name": "Mexico"
+  },
+  {
+    "name": "โมซัมบิก"},
+  { "name": "Mozambique"
+  },
+  {
+    "name": "โมนาโก"},
+  { "name": "Monaco"
+  },
+  {
+    "name": "โมร็อกโก"},
+  { "name": "Morocco"
+  },
+  {
+    "name": "ไมโครนีเซีย"},
+  { "name": "Micronesia"
+  },
+  {
+    "name": "ยิบรอลตาร์"},
+  { "name": "Gibraltar"
+  },
+  {
+    "name": "ยูกันดา"},
+  { "name": "Uganda"
+  },
+  {
+    "name": "ยูเครน"},
+  { "name": "Ukraine"
+  },
+  {
+    "name": "เยเมน"},
+  { "name": "Yemen"
+  },
+  {
+    "name": "เยอรมนี"},
+  { "name": "Germany"
+  },
+  {
+    "name": "รวันดา"},
+  { "name": "Rwanda"
+  },
+  {
+    "name": "รัสเซีย"},
+  { "name": "Russian Federation"
+  },
+  {
+    "name": "เรอูว์นียง"},
+  { "name": "Réunion"
+  },
+  {
+    "name": "โรมาเนีย"},
+  { "name": "Romania"
+  },
+  {
+    "name": "ลักเซมเบิร์ก"},
+  { "name": "Luxembourg"
+  },
+  {
+    "name": "ลัตเวีย"},
+  { "name": "Latvia"
+  },
+  {
+    "name": "ลาว"},
+  { "name": "Laos"
+  },
+  {
+    "name": "ลิกเตนสไตน์"},
+  { "name": "Liechtenstein"
+  },
+  {
+    "name": "ลิทัวเนีย"},
+  { "name": "Lithuania"
+  },
+  {
+    "name": "ลิเบีย"},
+  { "name": "Libya"
+  },
+  {
+    "name": "เลโซโท"},
+  { "name": "Lesotho"
+  },
+  {
+    "name": "เลบานอน"},
+  { "name": "Lebanon"
+  },
+  {
+    "name": "ไลบีเรีย"},
+  { "name": "Liberia"
+  },
+  {
+    "name": "วานูวาตู"},
+  { "name": "Vanuatu"
+  },
+  {
+    "name": "วาลิสและฟูตูนา"},
+  { "name": "Wallis and Futuna"
+  },
+  {
+    "name": "เวเนซุเอลา"},
+  { "name": "Venezuela"
+  },
+  {
+    "name": "เวียดนาม"},
+  { "name": "Vietnam"
+  },
+  {
+    "name": "ศรีลังกา"},
+  { "name": "Sri Lanka"
+  },
+  {
+    "name": "สเปน"},
+  { "name": "Spain"
+  },
+  {
+    "name": "สโลวาเกีย"},
+  { "name": "Slovakia"
+  },
+  {
+    "name": "สโลวีเนีย"},
+  { "name": "Slovenia"
+  },
+  {
+    "name": "สวาซิแลนด์"},
+  { "name": "Swaziland"
+  },
+  {
+    "name": "สวิตเซอร์แลนด์"},
+  { "name": "Switzerland"
+  },
+  {
+    "name": "สวีเดน"},
+  { "name": "Sweden"
+  },
+  {
+    "name": "สหรัฐ"},
+  { "name": "United States of America"
+  },
+  {
+    "name": "สหรัฐอาหรับเอมิเรตส์"},
+  { "name": "United Arab Emirates"
+  },
+  {
+    "name": "สหราชอาณาจักร"},
+  { "name": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "name": "สาธารณรัฐคองโก"},
+  { "name": "Republic of the Congo"
+  },
+  {
+    "name": "สาธารณรัฐโดมินิกัน"},
+  { "name": "Dominican Republic"
+  },
+  {
+    "name": "สาธารณรัฐประชาธิปไตยคองโก"},
+  { "name": "Democratic Republic of the Congo"
+  },
+  {
+    "name": "สาธารณรัฐแอฟริกากลาง"},
+  { "name": "Central African Republic"
+  },
+  {
+    "name": "สิงคโปร์"},
+  { "name": "Singapore"
+  },
+  {
+    "name": "หมู่เกาะคุก"},
+  { "name": "Cook Islands"
+  },
+  {
+    "name": "หมู่เกาะเคย์แมน"},
+  { "name": "Cayman Islands"
+  },
+  {
+    "name": "หมู่เกาะโคโคส"},
+  { "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "name": "หมู่เกาะโซโลมอน"},
+  { "name": "Solomon Islands"
+  },
+  {
+    "name": "หมู่เกาะเติกส์และเคคอส"},
+  { "name": "Turks and Caicos Islands"
+  },
+  {
+    "name": "หมู่เกาะนอร์เทิร์นมาเรียนา"},
+  { "name": "Northern Mariana Islands"
+  },
+  {
+    "name": "หมู่เกาะบริติชเวอร์จิน"},
+  { "name": "British Virgin Islands"
+  },
+  {
+    "name": "หมู่เกาะพิตแคร์น"},
+  { "name": "Pitcairn"
+  },
+  {
+    "name": "หมู่เกาะฟอล์กแลนด์"},
+  { "name": "Falkland Islands"
+  },
+  {
+    "name": "หมู่เกาะแฟโร"},
+  { "name": "Faroe Islands"
+  },
+  {
+    "name": "หมู่เกาะมาร์แชลล์"},
+  { "name": "Marshall Islands"
+  },
+  {
+    "name": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา"},
+  { "name": "United States Virgin Islands"
+  },
+  {
+    "name": "หมู่เกาะโอลันด์"},
+  { "name": "Åland Islands"
+  },
+  {
+    "name": "อเมริกันซามัว"},
+  { "name": "American Samoa"
+  },
+  {
+    "name": "ออสเตรเลีย"},
+  { "name": "Australia"
+  },
+  {
+    "name": "ออสเตรีย"},
+  { "name": "Austria"
+  },
+  {
+    "name": "อันดอร์รา"},
+  { "name": "Andorra"
+  },
+  {
+    "name": "อัฟกานิสถาน"},
+  { "name": "Afghanistan"
+  },
+  {
+    "name": "อาเซอร์ไบจาน"},
+  { "name": "Azerbaijan"
+  },
+  {
+    "name": "อาร์เจนตินา"},
+  { "name": "Argentina"
+  },
+  {
+    "name": "อาร์มีเนีย"},
+  { "name": "Armenia"
+  },
+  {
+    "name": "อารูบา"},
+  { "name": "Aruba"
+  },
+  {
+    "name": "อิเควทอเรียลกินี"},
+  { "name": "Equatorial Guinea"
+  },
+  {
+    "name": "อิตาลี"},
+  { "name": "Italy"
+  },
+  {
+    "name": "อินเดีย"},
+  { "name": "India"
+  },
+  {
+    "name": "อินโดนีเซีย"},
+  { "name": "Indonesia"
+  },
+  {
+    "name": "อิรัก"},
+  { "name": "Iraq"
+  },
+  {
+    "name": "อิสราเอล"},
+  { "name": "Israel"
+  },
+  {
+    "name": "อิหร่าน"},
+  { "name": "Iran"
+  },
+  {
+    "name": "อียิปต์"},
+  { "name": "Egypt"
+  },
+  {
+    "name": "อุซเบกิสถาน"},
+  { "name": "Uzbekistan"
+  },
+  {
+    "name": "อุรุกวัย"},
+  { "name": "Uruguay"
+  },
+  {
+    "name": "เอกวาดอร์"},
+  { "name": "Ecuador"
+  },
+  {
+    "name": "เอธิโอเปีย"},
+  { "name": "Ethiopia"
+  },
+  {
+    "name": "เอริเทรีย"},
+  { "name": "Eritrea"
+  },
+  {
+    "name": "เอลซัลวาดอร์"},
+  { "name": "El Salvador"
+  },
+  {
+    "name": "เอสโตเนีย"},
+  { "name": "Estonia"
+  },
+  {
+    "name": "แองกวิลลา"},
+  { "name": "Anguilla"
+  },
+  {
+    "name": "แองโกลา"},
+  { "name": "Angola"
+  },
+  {
+    "name": "แอนตาร์กติกา"},
+  { "name": "Antarctica"
+  },
+  {
+    "name": "แอนติกาและบาร์บูดา"},
+  { "name": "Antigua and Barbuda"
+  },
+  {
+    "name": "แอฟริกาใต้"},
+  { "name": "South Africa"
+  },
+  {
+    "name": "แอลจีเรีย"},
+  { "name": "Algeria"
+  },
+  {
+    "name": "แอลเบเนีย"},
+  { "name": "Albania"
+  },
+  {
+    "name": "โอมาน"},
+  { "name": "Oman"
+  },
+  {
+    "name": "ไอซ์แลนด์"},
+  { "name": "Iceland"
+  },
+  {
+    "name": "ไอร์แลนด์"},
+  { "name": "Ireland"
+  },
+  {
+    "name": "ไอล์ออฟแมน"},
+  { "name": "Isle of Man"
+  },
+  {
+    "name": "ฮ่องกง"},
+  { "name": "Hong Kong"
+  },
+  {
+    "name": "ฮอนดูรัส"},
+  { "name": "Honduras"
+  },
+  {
+    "name": "ฮังการี"},
+  { "name": "Hungary"
+  },
+  {
+    "name": "เฮติ"},
+  { "name": "Haiti"
+  },
+  {
+    "name": "ซินต์มาร์เติน"},
+  { "name": "Sint Maarten"
+  },
+  {
+    "name": "เนเธอร์แลนด์แคริบเบียน"},
+  { "name": "Bonaire, Sint Eustatius and Saba"
+  },
+  {
+    "name": "สฟาลบาร์และยานไมเอน"},
+  { "name": "Svalbard and Jan Mayen"
+  },
+    {
+      "name": "กรุงเทพมหานคร"},
+  {   "name": "Bangkok"
+    },
+    {
+      "name": "สมุทรปราการ"},
+  {   "name": "Samut Prakan"
+    },
+    {
+      "name": "นนทบุรี"},
+  {   "name": "Nonthaburi"
+    },
+    {
+      "name": "ปทุมธานี"},
+  {   "name": "Pathum Thani"
+    },
+    {
+      "name": "พระนครศรีอยุธยา"},
+  {   "name": "Phra Nakhon Si Ayutthaya"
+    },
+    {
+      "name": "อ่างทอง"},
+  {   "name": "Ang Thong"
+    },
+    {
+      "name": "ลพบุรี"},
+  {   "name": "Loburi"
+    },
+    {
+      "name": "สิงห์บุรี"},
+  {   "name": "Sing Buri"
+    },
+    {
+      "name": "ชัยนาท"},
+  {   "name": "Chai Nat"
+    },
+    {
+  
+      "name": "สระบุรี"},
+  {   "name": "Saraburi"
+    },
+    {
+  
+      "name": "ชลบุรี"},
+  {   "name": "Chon Buri"
+    },
+    {
+  
+      "name": "ระยอง"},
+  {   "name": "Rayong"
+    },
+    {
+  
+      "name": "จันทบุรี"},
+  {   "name": "Chanthaburi"
+    },
+    {
+  
+      "name": "ตราด"},
+  {   "name": "Trat"
+    },
+    {
+  
+      "name": "ฉะเชิงเทรา"},
+  {   "name": "Chachoengsao"
+    },
+    {
+  
+      "name": "ปราจีนบุรี"},
+  {   "name": "Prachin Buri"
+    },
+    {
+  
+      "name": "นครนายก"},
+  {   "name": "Nakhon Nayok"
+    },
+    {
+  
+      "name": "สระแก้ว"},
+  {   "name": "Sa Kaeo"
+    },
+    {
+  
+      "name": "นครราชสีมา"},
+  {   "name": "Nakhon Ratchasima"
+    },
+    {
+  
+      "name": "บุรีรัมย์"},
+  {   "name": "Buri Ram"
+    },
+    {
+  
+      "name": "สุรินทร์"},
+  {   "name": "Surin"
+    },
+    {
+  
+      "name": "ศรีสะเกษ"},
+  {   "name": "Si Sa Ket"
+    },
+    {
+  
+      "name": "อุบลราชธานี"},
+  {   "name": "Ubon Ratchathani"
+    },
+    {
+  
+      "name": "ยโสธร"},
+  {   "name": "Yasothon"
+    },
+    {
+  
+      "name": "ชัยภูมิ"},
+  {   "name": "Chaiyaphum"
+    },
+    {
+  
+      "name": "อำนาจเจริญ"},
+  {   "name": "Amnat Charoen"
+    },
+    {
+  
+      "name": "หนองบัวลำภู"},
+  {   "name": "Nong Bua Lam Phu"
+    },
+    {
+  
+      "name": "ขอนแก่น"},
+  {   "name": "Khon Kaen"
+    },
+    {
+  
+      "name": "อุดรธานี"},
+  {   "name": "Udon Thani"
+    },
+    {
+  
+      "name": "เลย"},
+  {   "name": "Loei"
+    },
+    {
+  
+      "name": "หนองคาย"},
+  {   "name": "Nong Khai"
+    },
+    {
+  
+      "name": "มหาสารคาม"},
+  {   "name": "Maha Sarakham"
+    },
+    {
+  
+      "name": "ร้อยเอ็ด"},
+  {   "name": "Roi Et"
+    },
+    {
+  
+      "name": "กาฬสินธุ์"},
+  {   "name": "Kalasin"
+    },
+    {
+  
+      "name": "สกลนคร"},
+  {   "name": "Sakon Nakhon"
+    },
+    {
+  
+      "name": "นครพนม"},
+  {   "name": "Nakhon Phanom"
+    },
+    {
+  
+      "name": "มุกดาหาร"},
+  {   "name": "Mukdahan"
+    },
+    {
+  
+      "name": "เชียงใหม่"},
+  {   "name": "Chiang Mai"
+    },
+    {
+  
+      "name": "ลำพูน"},
+  {   "name": "Lamphun"
+    },
+    {
+  
+      "name": "ลำปาง"},
+  {   "name": "Lampang"
+    },
+    {
+  
+      "name": "อุตรดิตถ์"},
+  {   "name": "Uttaradit"
+    },
+    {
+  
+      "name": "แพร่"},
+  {   "name": "Phrae"
+    },
+    {
+  
+      "name": "น่าน"},
+  {   "name": "Nan"
+    },
+    {
+  
+      "name": "พะเยา"},
+  {   "name": "Phayao"
+    },
+    {
+  
+      "name": "เชียงราย"},
+  {   "name": "Chiang Rai"
+    },
+    {
+  
+      "name": "แม่ฮ่องสอน"},
+  {   "name": "Mae Hong Son"
+    },
+    {
+  
+      "name": "นครสวรรค์"},
+  {   "name": "Nakhon Sawan"
+    },
+    {
+  
+      "name": "อุทัยธานี"},
+  {   "name": "Uthai Thani"
+    },
+    {
+  
+      "name": "กำแพงเพชร"},
+  {   "name": "Kamphaeng Phet"
+    },
+    {
+  
+      "name": "ตาก"},
+  {   "name": "Tak"
+    },
+    {
+  
+      "name": "สุโขทัย"},
+  {   "name": "Sukhothai"
+    },
+    {
+  
+      "name": "พิษณุโลก"},
+  {   "name": "Phitsanulok"
+    },
+    {
+  
+      "name": "พิจิตร"},
+  {   "name": "Phichit"
+    },
+    {
+  
+      "name": "เพชรบูรณ์"},
+  {   "name": "Phetchabun"
+    },
+    {
+  
+      "name": "ราชบุรี"},
+  {   "name": "Ratchaburi"
+    },
+    {
+  
+      "name": "กาญจนบุรี"},
+  {   "name": "Kanchanaburi"
+    },
+    {
+  
+      "name": "สุพรรณบุรี"},
+  {   "name": "Suphan Buri"
+    },
+    {
+  
+      "name": "นครปฐม"},
+  {   "name": "Nakhon Pathom"
+    },
+    {
+  
+      "name": "สมุทรสาคร"},
+  {   "name": "Samut Sakhon"
+    },
+    {
+  
+      "name": "สมุทรสงคราม"},
+  {   "name": "Samut Songkhram"
+    },
+    {
+  
+      "name": "เพชรบุรี"},
+  {   "name": "Phetchaburi"
+    },
+    {
+  
+      "name": "ประจวบคีรีขันธ์"},
+  {   "name": "Prachuap Khiri Khan"
+    },
+    {
+  
+      "name": "นครศรีธรรมราช"},
+  {   "name": "Nakhon Si Thammarat"
+    },
+    {
+  
+      "name": "กระบี่"},
+  {   "name": "Krabi"
+    },
+    {
+  
+      "name": "พังงา"},
+  {   "name": "Phangnga"
+    },
+    {
+  
+      "name": "ภูเก็ต"},
+  {   "name": "Phuket"
+    },
+    {
+  
+      "name": "สุราษฎร์ธานี"},
+  {   "name": "Surat Thani"
+    },
+    {
+  
+      "name": "ระนอง"},
+  {   "name": "Ranong"
+    },
+    {
+  
+      "name": "ชุมพร"},
+  {   "name": "Chumphon"
+    },
+    {
+  
+      "name": "สงขลา"},
+  {   "name": "Songkhla"
+    },
+    {
+  
+      "name": "สตูล"},
+  {   "name": "Satun"
+    },
+    {
+  
+      "name": "ตรัง"},
+  {   "name": "Trang"
+    },
+    {
+  
+      "name": "พัทลุง"},
+  {   "name": "Phatthalung"
+    },
+    {
+  
+      "name": "ปัตตานี"},
+  {   "name": "Pattani"
+    },
+    {
+  
+      "name": "ยะลา"},
+  {   "name": "Yala"
+    },
+    {
+  
+      "name": "นราธิวาส"},
+  {   "name": "Narathiwat"
+    },
+    {
+  
+      "name": "บึงกาฬ"},
+  {   "name": "buogkan"
+    }
+]

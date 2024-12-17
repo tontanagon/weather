@@ -1,39 +1,32 @@
 <script setup>
 import heads from '../components/header.vue'
-import { ref, onMounted, computed } from 'vue';
+import { ref,onMounted, computed } from 'vue';
 import axios from 'axios';
+import countries from '../Json_File/country-list-th.json';
 
 const items = ref({});
-const list = ref([]);
-const lat = ref("18.785988342597456");
-const lon = ref("98.9756256359831");
 const apikey = ref("ee47638ad2a5ae6362d146cd3c28988a");
 const dateParts = ref([]);
 const timeParts = ref([]);
+const searchTerm = ref('');
+const cn = ref('');
 
 const fetchPosts = () => {
-  const url = `https://api.openweathermap.org/data/2.5/forecast?lat=${lat.value}&lon=${lon.value}&appid=${apikey.value}&units=metric`;
+  const url = `https://api.openweathermap.org/data/2.5/forecast?q=${searchTerm.value}&appid=${apikey.value}&units=metric`;
 
   axios.get(url)
     .then((response) => {
       items.value = response.data;
-      list.value.push(items.value.city);
-      console.log(items.value);
+      cn.value = items.value.city.name;
 
-      // Extract dt_txt values from the list of forecasts
       const dtTxtValues = items.value.list.map((forecast) => forecast.dt_txt);
-      
-      // Split dt_txt values into date and time parts
       dateParts.value = dtTxtValues.map((dtTxt) => dtTxt.split(' ')[0]);
       timeParts.value = dtTxtValues.map((dtTxt) => dtTxt.split(' ')[1]);
+      searchTerm.value = '' 
     })
-    .catch((err) => {
-      console.error(err);
-    });
+    .catch((err) => console.error(err));
 };
-
 onMounted(fetchPosts);
-
 const combinedDateTime = computed(() => {
   // Combine date and time parts into a single array of objects
   return dateParts.value.map((date, index) => ({
@@ -46,17 +39,19 @@ const uniqueDates = computed(() => {
   return Array.from(dateSet);
 });
 
+const searchCountries = computed(() => {
+  if (!searchTerm.value) return [];
+  return countries.filter(country =>
+    country.name.toLowerCase().includes(searchTerm.value.toLowerCase())
+  ).slice(0, 10); 
+});
 </script>
 
 <template>
-    <RouterView></RouterView>
+  <RouterView></RouterView>
   <body class="bg-body-tertiary">
-    <heads ></heads>
-<main class="container-fluid ">
-    <div class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Latitude" aria-label="Latitude" >
-            <input class="form-control me-2" type="search" placeholder="Longitude" aria-label="Longitude" >
-    </div>
+    <heads></heads>
+<main class="container-fluid">
   <div class="row text-start">
     <div class="col-2 ">
       <nav id="navbar-example3" class="h-100 flex-column align-items-stretch pe-4 border-end " > 
@@ -64,6 +59,21 @@ const uniqueDates = computed(() => {
           <a class="nav-link" :href="`#` + date" v-for="(date, index) in uniqueDates" :key="index">
         {{ date }}
       </a>
+      <div class="" role="search" style="padding-top: 46px;">
+            <input class="form-control me-2" type="search" placeholder="เมือง" aria-label="Latitude" v-model="searchTerm">
+            <ul v-if="searchCountries.length" class="list-group mt-2">
+          <li 
+            v-for="(country, index) in searchCountries" 
+            :key="index" 
+            class="list-group-item list-group-item-action"
+            @click="searchTerm = country.name; fetchPosts()"
+          >
+            {{ country.name }}
+          </li>
+        </ul>
+            <button class="btn btn-outline-success m-3" type="button" @click="fetchPosts()">Update</button>
+    </div>
+
         </nav>
       </nav>
     </div>
@@ -71,10 +81,10 @@ const uniqueDates = computed(() => {
     <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
       <div id="item-1">
         <div class="my-3 p-3 bg-body rounded shadow-sm" id="list-item-1">
-    <h6 class="border-bottom pb-2 mb-0 " v-for="(i,index) in list" :key="index"><br>สภาพอากาศ 5 วัน ( {{ i.name }} ) </h6>
+    <h6 class="border-bottom pt-2 pb-2 mb-0 ">สภาพอากาศ 5 วัน ( {{ cn }} ) </h6>
     <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
     <div class="d-flex text-body-secondary pt-3 col" :id="combinedDateTime[index].date" v-for="(i,index) in items.list " :key="index">
-      <div class="card"  style="width: 18rem;">
+      <div class="card" style="width: 18rem;">
         <div class="card-body text-center">
           <h5 class="card-title" >วันที่ {{ combinedDateTime[index].date }}</h5>
           <img :src="`https://openweathermap.org/img/wn/`+i.weather[0].icon+`@2x.png`" class="card-img" alt="..." style="max-width: 150px; "> 
